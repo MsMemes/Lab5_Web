@@ -1,0 +1,32 @@
+h1{
+	border: solid purple;
+	background-color: #E6E6FA;
+	color: black;
+	padding: 5px;
+}
+
+ul {
+	border-left: 5px solid purple;
+	background-color: lightgray;
+
+}
+
+button{
+	border-radius: 6px;
+	color: white;
+}
+
+#botonSubmit{
+	background-color: #007AFF;
+}
+
+#botonListo{
+	background-color: green;
+}
+
+#botonBorrar{
+	background-color: red;
+}
+.line {
+	text-decoration: line-through red;
+}
